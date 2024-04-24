@@ -1,5 +1,14 @@
-template-repository (1.0-1) unstable; urgency=medium
+tini (0.19.0-1) unstable; urgency=medium
 
-  * Initial release
+  * New upstream release.
+  * Bump compat to 13.
+  * Bump Standards-Version to 4.5.0.
+    * Set Rules-Requires-Root: no
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- ChangZhuo Chen (陳昌倬) <czchen@debian.org>  Wed, 16 Sep 2020 22:40:23 +0800
+
+tini (0.18.0-1) unstable; urgency=low
+
+  * Initial release. Closes: #896769
+
+ -- ChangZhuo Chen (陳昌倬) <czchen@debian.org>  Wed, 25 Apr 2018 09:52:55 +0800
